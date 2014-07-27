@@ -6,9 +6,8 @@ Using Compass/Sass
 
 
 
-Developped By **CNWEB**
+Developped By **CHIHEB Nabil**
 
 **Web & Mobile Applications**
 
-*  WWW.CNWEB.DZ
 *  CONTACT@CNWEB.DZ
